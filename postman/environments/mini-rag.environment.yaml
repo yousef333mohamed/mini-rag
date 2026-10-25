@@ -1,0 +1,6 @@
+name: mini-rag
+values:
+  - key: app
+    value: ''
+  - key: ''
+    value: ''
